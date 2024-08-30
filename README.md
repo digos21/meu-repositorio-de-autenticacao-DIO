@@ -1,2 +1,2 @@
 # meu-repositorio-de-autenticacao-DIO
-Repositório para estudar autenticação no estudo git e github
+Repositório estudar autenticação no curso do github certificação.
